@@ -1,0 +1,19 @@
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\BikeOnRent.g.cs
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\MainWindow.g.cs
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\App.g.cs
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application_MarkupCompile.cache
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application_MarkupCompile.lref
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Dashboard_Page.g.cs
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\bin\Debug\Bike Rental Application.exe.config
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\bin\Debug\Bike Rental Application.exe
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\bin\Debug\Bike Rental Application.pdb
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\BikeOnRent.baml
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Dashboard_Page.baml
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\MainWindow.baml
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application.g.resources
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike_Rental_Application.Properties.Resources.resources
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application.csproj.GenerateResource.cache
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application.csproj.CoreCompileInputs.cache
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application.exe
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application.pdb
+C:\Users\11010863\source\repos\Bike Rental Application\Bike Rental Application\obj\Debug\Bike Rental Application.csprojAssemblyReference.cache

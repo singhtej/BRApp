@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfManageBikeTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManageBikeTypes>
+    <Type>City Bike</Type>
+    <Quantity>50</Quantity>
+    <Rent>10</Rent>
+    <Deposit>20</Deposit>
+  </ManageBikeTypes>
+  <ManageBikeTypes>
+    <Type>Mountain Bike</Type>
+    <Quantity>50</Quantity>
+    <Rent>20</Rent>
+    <Deposit>30</Deposit>
+  </ManageBikeTypes>
+  <ManageBikeTypes>
+    <Type>E-Bike</Type>
+    <Quantity>50</Quantity>
+    <Rent>30</Rent>
+    <Deposit>40</Deposit>
+  </ManageBikeTypes>
+  <ManageBikeTypes>
+    <Type>Racing Bike</Type>
+    <Quantity>50</Quantity>
+    <Rent>40</Rent>
+    <Deposit>50</Deposit>
+  </ManageBikeTypes>
+</ArrayOfManageBikeTypes>

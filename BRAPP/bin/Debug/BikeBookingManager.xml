@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<ArrayOfManageBooking xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManageBooking>
+    <CustomerId>1</CustomerId>
+    <Email>thomas121@gmail.com</Email>
+    <Address>Eppelheimer Str 4</Address>
+    <ZipCode>69128</ZipCode>
+    <CityName>Heidelberg</CityName>
+    <Phone>17956842368</Phone>
+    <StartDate>02/05/2019</StartDate>
+    <EndDate>03/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>30</Deposit>
+    <Rent>20</Rent>
+    <TotalAmount>50</TotalAmount>
+    <ReturnDeposit>30</ReturnDeposit>
+    <TypeMountain>Mountain Bike</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>Not Selected</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>Heiler Thomas</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>2</CustomerId>
+    <Email>yogi.singh12@gmail.com</Email>
+    <Address>Sandwingert 5</Address>
+    <ZipCode>691223</ZipCode>
+    <CityName>Heidelberg</CityName>
+    <Phone>17983659942</Phone>
+    <StartDate>01/05/2019</StartDate>
+    <EndDate>02/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>40</Deposit>
+    <Rent>30</Rent>
+    <TotalAmount>70</TotalAmount>
+    <ReturnDeposit>40</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>Not Selected</TypeCity>
+    <TypeEBike>E-Bike</TypeEBike>
+    <FullName>Singh Yogi</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>3</CustomerId>
+    <Email>varad45@gmail.com</Email>
+    <Address>Eppelhimer Str 5</Address>
+    <ZipCode>69178</ZipCode>
+    <CityName>Heidelberg</CityName>
+    <Phone>16879564235</Phone>
+    <StartDate>02/05/2019</StartDate>
+    <EndDate>03/05/2019</EndDate>
+    <Quantity>2</Quantity>
+    <Deposit>100</Deposit>
+    <Rent>80</Rent>
+    <TotalAmount>180</TotalAmount>
+    <ReturnDeposit>100</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Racing Bike</TypeRacing>
+    <TypeCity>Not Selected</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>Varad Joshi</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>4</CustomerId>
+    <Email>sanket340@gmail.com</Email>
+    <Address>Hermann Str 5</Address>
+    <ZipCode>69128</ZipCode>
+    <CityName>Heidelberg</CityName>
+    <Phone>1798453568</Phone>
+    <StartDate>02/05/2019</StartDate>
+    <EndDate>03/05/2019</EndDate>
+    <Quantity>4</Quantity>
+    <Deposit>140</Deposit>
+    <Rent>100</Rent>
+    <TotalAmount>240</TotalAmount>
+    <ReturnDeposit>140</ReturnDeposit>
+    <TypeMountain>Mountain Bike</TypeMountain>
+    <TypeRacing>Racing Bike</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>E-Bike</TypeEBike>
+    <FullName>Sanket</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>5</CustomerId>
+    <Email>techietej@gmail.com</Email>
+    <Address>Sandwingert 4</Address>
+    <ZipCode>69123</ZipCode>
+    <CityName>Heidelberg</CityName>
+    <Phone>16879562348</Phone>
+    <StartDate>06/05/2019</StartDate>
+    <EndDate>07/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>20</Deposit>
+    <Rent>10</Rent>
+    <TotalAmount>30</TotalAmount>
+    <ReturnDeposit>20</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>Tejveer</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>6</CustomerId>
+    <Email>jdsanjd</Email>
+    <Address>jdsakdik</Address>
+    <ZipCode>453562</ZipCode>
+    <CityName>xsxjxsj</CityName>
+    <Phone>34652</Phone>
+    <StartDate>07/05/2019</StartDate>
+    <EndDate>08/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>20</Deposit>
+    <Rent>10</Rent>
+    <TotalAmount>30</TotalAmount>
+    <ReturnDeposit>20</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>Nikhil</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>7</CustomerId>
+    <Email>dssa</Email>
+    <Address>sdfsada</Address>
+    <ZipCode>21333</ZipCode>
+    <CityName>dsfad</CityName>
+    <Phone>3243532</Phone>
+    <StartDate>01/05/2019</StartDate>
+    <EndDate>02/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>20</Deposit>
+    <Rent>10</Rent>
+    <TotalAmount>30</TotalAmount>
+    <ReturnDeposit>20</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>fdsaf</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>10</CustomerId>
+    <Email>otto@gmail.com</Email>
+    <Address>hfdjf 4</Address>
+    <ZipCode>68524</ZipCode>
+    <CityName>Heidelberg</CityName>
+    <Phone>1568792346</Phone>
+    <StartDate>10/05/2019</StartDate>
+    <EndDate>11/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>20</Deposit>
+    <Rent>10</Rent>
+    <TotalAmount>30</TotalAmount>
+    <ReturnDeposit>20</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>Otto Hans</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>11</CustomerId>
+    <StartDate>08/05/2019</StartDate>
+    <EndDate>09/05/2019</EndDate>
+    <Quantity>2</Quantity>
+    <Deposit>50</Deposit>
+    <Rent>30</Rent>
+    <TotalAmount>80</TotalAmount>
+    <ReturnDeposit>50</ReturnDeposit>
+    <TypeMountain>Mountain Bike</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>11</CustomerId>
+    <StartDate>08/05/2019</StartDate>
+    <EndDate>09/05/2019</EndDate>
+    <Quantity>3</Quantity>
+    <Deposit>90</Deposit>
+    <Rent>60</Rent>
+    <TotalAmount>150</TotalAmount>
+    <ReturnDeposit>90</ReturnDeposit>
+    <TypeMountain>Mountain Bike</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>E-Bike</TypeEBike>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>12</CustomerId>
+    <Email>klkk</Email>
+    <Address>nnmnm</Address>
+    <ZipCode>6766</ZipCode>
+    <CityName>hhhhh</CityName>
+    <Phone>666767</Phone>
+    <StartDate>08/05/2019</StartDate>
+    <EndDate>09/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>20</Deposit>
+    <Rent>10</Rent>
+    <TotalAmount>30</TotalAmount>
+    <ReturnDeposit>20</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>tej</FullName>
+  </ManageBooking>
+  <ManageBooking>
+    <CustomerId>13</CustomerId>
+    <Email>nnh</Email>
+    <Address>kjjk</Address>
+    <ZipCode>156</ZipCode>
+    <CityName>vgvg</CityName>
+    <Phone>14</Phone>
+    <StartDate>10/05/2019</StartDate>
+    <EndDate>11/05/2019</EndDate>
+    <Quantity>1</Quantity>
+    <Deposit>20</Deposit>
+    <Rent>10</Rent>
+    <TotalAmount>30</TotalAmount>
+    <ReturnDeposit>20</ReturnDeposit>
+    <TypeMountain>Not Selected</TypeMountain>
+    <TypeRacing>Not Selected</TypeRacing>
+    <TypeCity>City Bike</TypeCity>
+    <TypeEBike>Not Selected</TypeEBike>
+    <FullName>hjj</FullName>
+  </ManageBooking>
+</ArrayOfManageBooking>
