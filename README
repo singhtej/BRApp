@@ -1,0 +1,15 @@
+Introduction
+The purpose of this application is to provide a platform which help bike shop owner and he/she wants to organize his renting of bikes where he provides customers bikes. He/She takes some deposit amount for each hire and also checks the condition of the bike before customer returns. If all goods he keeps the rent amount and gives back the deposit. If there are any issues in the bike, then he deducts some amount from the deposit and return the amount. The amount that is deducted is directly related to the damages incurred to the bike with the cost of effort in replacing that part.
+User of the Application
+Bike shop owner and Sales person in the bike store.
+Functionality
+As you begin with this application for booking a bike for customer, Store person need to know the availability of bike on application which application is already providing. If, required bike is available then user will proceed further and book a bike for the customer. The application user will search the customer and see the customer booking list and also has a functionality to return a bike and add it into the available bikes.
+Assumptions
+In this application, Number of bikes and Type, Rent, Deposit and Customer information data are assumed.
+Future Scope
+•	Bike will be editable after Selection.
+•	Quantity will be editable.
+•	See the Customer list and edit the information.
+•	Customer Information like name, address, phone, postal code need Validation.
+•	Total price of rent and deposit 
+•	Reporting – Daily, Monthly or custom date range report should be available, reports should be relevant and informative for the bike shop owner
